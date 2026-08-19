@@ -122,9 +122,7 @@ Data/
 └── Returns.csv
 ```
 
-📄 [View Dataset] :
-> https://github.com/ks09-myself/Powerbi-sales-dashboard/tree/main/Sales%20Data
-> https://github.com/ks09-myself/Powerbi-sales-dashboard/tree/main/Datasets
+📄 [View Dataset] (https://github.com/ks09-myself/Powerbi-sales-dashboard/tree/main/Sales%20Data), (https://github.com/ks09-myself/Powerbi-sales-dashboard/tree/main/Datasets)
 
 ---
 
