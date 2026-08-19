@@ -122,7 +122,9 @@ Data/
 └── Returns.csv
 ```
 
-> File names should be updated according to the exact CSV filenames you upload to GitHub.
+📄 [View Dataset] :
+> https://github.com/ks09-myself/Powerbi-sales-dashboard/tree/main/Sales%20Data
+> https://github.com/ks09-myself/Powerbi-sales-dashboard/tree/main/Datasets
 
 ---
 
