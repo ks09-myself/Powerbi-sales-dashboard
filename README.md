@@ -400,7 +400,7 @@ Use monthly and weekly trends to support planning around demand, revenue, orders
 
 ## Executive Dashboard
 
-![Executive Dashboard](Screenshots/Executive_Dashboard.png)
+![Executive Dashboard](https://github.com/ks09-myself/Powerbi-sales-dashboard/blob/main/Dashboard_images/Exec%20Dashboard.png)
 
 The Executive Dashboard provides an interactive overview of revenue, profit, orders, customers, returns, product performance, and business trends.
 
