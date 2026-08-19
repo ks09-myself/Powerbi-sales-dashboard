@@ -406,25 +406,25 @@ The Executive Dashboard provides an interactive overview of revenue, profit, ord
 
 ## Customer Detail
 
-![Customer Detail](Screenshots/Customer_Detail.png)
+![Customer Detail](https://github.com/ks09-myself/Powerbi-sales-dashboard/blob/main/Dashboard_images/Customer%20Details.png)
 
 The Customer Detail page provides customer-level analysis and helps identify high-value customer segments.
 
 ## Product Detail
 
-![Product Detail](Screenshots/Product_Detail.png)
+![Product Detail](Screenshots/Product_Detail.pn)
 
 The Product Detail page provides detailed analysis of individual products and their performance.
 
 ## Geographic Analysis
 
-![Map Analysis](Screenshots/Map_Analysis.png)
+![Map Analysis](https://github.com/ks09-myself/Powerbi-sales-dashboard/blob/main/Dashboard_images/Map.png)
 
 The Map page provides geographic analysis of business performance across territories.
 
 ## Decomposition Tree
 
-![Decomposition Tree](Screenshots/Decomposition_Tree.png)
+![Decomposition Tree](https://github.com/ks09-myself/Powerbi-sales-dashboard/blob/main/Dashboard_images/Decomposition%20Tree.png)
 
 The Decomposition Tree allows interactive exploration of the factors contributing to business performance.
 
