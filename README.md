@@ -412,7 +412,7 @@ The Customer Detail page provides customer-level analysis and helps identify hig
 
 ## Product Detail
 
-![Product Detail](Screenshots/Product_Detail.pn)
+![Product Detail](https://github.com/ks09-myself/Powerbi-sales-dashboard/blob/main/Dashboard_images/Product%20Details.png)
 
 The Product Detail page provides detailed analysis of individual products and their performance.
 
@@ -427,8 +427,6 @@ The Map page provides geographic analysis of business performance across territo
 ![Decomposition Tree](https://github.com/ks09-myself/Powerbi-sales-dashboard/blob/main/Dashboard_images/Decomposition%20Tree.png)
 
 The Decomposition Tree allows interactive exploration of the factors contributing to business performance.
-
-> Update the screenshot filenames above to match the actual files you upload to GitHub.
 
 ---
 
